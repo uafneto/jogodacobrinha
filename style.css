@@ -1,0 +1,11 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:black;
+    color: rgb(204, 157, 2);
+}
